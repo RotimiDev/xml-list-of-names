@@ -18,10 +18,6 @@ This repository contains my submission for a take-home test. The app is an **And
 - **Components:** RecyclerView, Material Components, TextInputLayout
 - **Other:** LiveData, ListAdapter, DiffUtil
 
-## Screenshots
-
-
-
 ## Installation
 
 1. Clone the repository:
